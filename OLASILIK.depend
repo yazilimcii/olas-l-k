@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553716763 source:c:\users\asus\desktop\dersler\codeblocks çalýþmalar\olasilik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
